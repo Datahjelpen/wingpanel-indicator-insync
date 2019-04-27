@@ -1,11 +1,11 @@
-# PIA VPN Wingpanel Indicator
+# Insync Wingpanel Indicator
 
 ## Install
 
-Copy pia-16.png from the icons directory into /home/USERNAME/.share/datahjelpen/pia_vpn
+Copy insync-16.png from the icons directory into /home/USERNAME/.share/datahjelpen/insync
 
 Now run the following commands:
 
 1. meson build
-2. ninja install
-
+2. cd build
+3. ninja install
